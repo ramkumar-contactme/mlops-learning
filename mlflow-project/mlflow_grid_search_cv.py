@@ -5,7 +5,7 @@ from sklearn import datasets, svm
 from sklearn.model_selection import GridSearchCV
 from utils import fetch_logged_data
 
-import mlflow
+import mlflowf
 
 
 def main():
