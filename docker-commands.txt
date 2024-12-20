@@ -1,0 +1,10 @@
+# list docker images
+docker images
+# list running images
+docker ps
+# run an image
+docker run <name>
+#stop running an image
+docker stop <name>
+#build an image
+docker build <options>

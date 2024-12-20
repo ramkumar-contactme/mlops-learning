@@ -1,0 +1,12 @@
+# list docker images
+docker images
+# list running images
+docker ps
+# run an image
+docker run <name>
+#stop running an image
+docker stop <name>
+#build an image
+docker build --tag my-flask-app .
+#run with port mapping
+docker run -d -p 5000:5000 my-flask-app

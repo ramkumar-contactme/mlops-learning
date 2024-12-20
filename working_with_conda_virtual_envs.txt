@@ -1,0 +1,15 @@
+# create a conda virtual environment
+conda create --name mlops-project3
+
+# activate
+
+conda activate mlops-project3
+
+# install required packages
+conda install python
+conda install scikit-learn
+conda install joblib
+
+# deactivate
+
+conda deactivate

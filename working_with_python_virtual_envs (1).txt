@@ -1,0 +1,20 @@
+# create a python virtual environment
+python -m venv mlops-project4
+
+# activate
+
+mlops-project4\Scripts\activate
+
+# install required packages
+pip install scikit-learn
+
+# document the requirements
+pip freeze > requirements.txt
+
+# clone the virtual environment
+# create a new environment
+python -m venv mlops-project5
+# activate
+mlops-project5\Scripts\activate
+# install all the requirements
+pip install -r requirements.txt
