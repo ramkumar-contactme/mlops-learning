@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/training/mlflow-project/mlruns/0/82583fa376124de499c339167ee0fcdf/artifacts
+end_time: 1734678757015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 82583fa376124de499c339167ee0fcdf
+run_name: flawless-dove-873
+run_uuid: 82583fa376124de499c339167ee0fcdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734678756766
+status: 3
+tags: []
+user_id: Admin

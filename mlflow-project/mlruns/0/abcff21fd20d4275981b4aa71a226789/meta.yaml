@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/training/mlflow-project/mlruns/0/abcff21fd20d4275981b4aa71a226789/artifacts
+end_time: 1734678826347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: abcff21fd20d4275981b4aa71a226789
+run_name: bald-whale-989
+run_uuid: abcff21fd20d4275981b4aa71a226789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734678826118
+status: 3
+tags: []
+user_id: Admin
